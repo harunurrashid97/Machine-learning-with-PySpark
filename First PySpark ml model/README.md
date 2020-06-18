@@ -1,6 +1,6 @@
 # First Time Machine Learning Model With PySpark
 
-![First Time Machine Learning Model With PySpark](/First_PySpark_ml_model.png)
+![First Time Machine Learning Model With PySpark](https://github.com/harunshimanto/Machine-learning-with-PySpark/blob/master/First%20PySpark%20ml%20model/First_PySpark_ml_model.png)
 
 Machine learning models sparking when PySpark gave the accelerator gear like the need for speed gaming cars.
 
